@@ -1,0 +1,2668 @@
+{
+  "mcwtrpdoors:recipes/print_beach": {
+    "criteria": {
+      "has_logs": "2025-02-01 00:20:20 -0300"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/cash_register/white_cash_register": {
+    "criteria": {
+      "has_dye": "2025-02-01 00:55:58 -0300"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/acacia/acacia_mystic_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-02-01 00:20:20 -0300"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/mail_box/gray_mail_box": {
+    "criteria": {
+      "has_wooden_slabs": "2025-02-01 01:09:44 -0300"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/equipment/camera": {
+    "criteria": {
+      "has_glass_pane": "2025-02-01 00:44:50 -0300"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/letter_box/gray_letter_box": {
+    "criteria": {
+      "has_wooden_slabs": "2025-02-01 01:09:44 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_blue_dye_from_blue_orchid": {
+    "criteria": {
+      "has_red_flower": "2025-02-01 02:37:04 -0300"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/building_infrastructure/wooden_flooring": {
+    "criteria": {
+      "has_wooden_slabs": "2025-02-01 01:09:44 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_bricks": {
+    "criteria": {
+      "has_stone": "2025-02-01 02:06:03 -0300"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/spruce/spruce_barn_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-02-01 00:20:20 -0300"
+    },
+    "done": true
+  },
+  "naturescompass:natures_compass": {
+    "criteria": {
+      "has_recipe": "2025-02-01 00:53:04 -0300"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/acacia/acacia_paper_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-02-01 00:20:20 -0300"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/dark_oak/dark_oak_beach_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-02-01 00:20:20 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-02-01 00:44:50 -0300"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/letter_box/orange_letter_box": {
+    "criteria": {
+      "has_wooden_slabs": "2025-02-01 01:09:44 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2025-02-01 00:39:54 -0300"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/acacia/acacia_glass_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-02-01 00:20:20 -0300"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/pokeball/lid/friend_ball_lid": {
+    "criteria": {
+      "has_ultra_ball": "2025-02-01 00:28:19 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "has_planks": "2025-02-01 01:28:33 -0300"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/acacia/acacia_ranch_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-02-01 00:20:20 -0300"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/bamboo/bamboo_barn_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-02-01 00:20:20 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_slab": {
+    "criteria": {
+      "has_planks": "2025-02-01 01:28:33 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2025-02-01 00:44:23 -0300"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/machines/fossil/fossil_display": {
+    "criteria": {
+      "has_cleaned_fossil": "2025-02-01 02:45:58 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-02-01 02:06:03 -0300"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/acacia/crimson_bark_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-02-01 00:20:20 -0300"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/rug/cyan_rug_dyed": {
+    "criteria": {
+      "has_rug": "2025-02-01 02:50:20 -0300"
+    },
+    "done": true
+  },
+  "mcwdoors:recipes/dark_oak": {
+    "criteria": {
+      "has_wood": "2025-02-01 00:20:20 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_button": {
+    "criteria": {
+      "has_planks": "2025-02-01 01:28:33 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick": {
+    "criteria": {
+      "has_planks": "2025-02-01 01:28:33 -0300"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/armchair/white_armchair_dyed": {
+    "criteria": {
+      "has_armchair": "2025-02-01 02:55:19 -0300"
+    },
+    "done": true
+  },
+  "mcwdoors:recipes/spruce": {
+    "criteria": {
+      "has_wood": "2025-02-01 00:20:20 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-02-01 02:06:03 -0300"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/jungle/jungle_barrel_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-02-01 00:20:20 -0300"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/pokeball/lid/dusk_ball_lid": {
+    "criteria": {
+      "has_ultra_ball": "2025-02-01 00:28:19 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz_slab_from_smooth_quartz_stonecutting": {
+    "criteria": {
+      "has_smooth_quartz": "2025-02-01 00:24:57 -0300"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/rug/blue_rug_dyed": {
+    "criteria": {
+      "has_rug": "2025-02-01 02:50:20 -0300"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/crimson/crimson_beach_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-02-01 00:20:20 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2025-02-01 00:53:04 -0300"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/armchair/green_armchair_dyed": {
+    "criteria": {
+      "has_armchair": "2025-02-01 02:55:19 -0300"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/warped": {
+    "criteria": {
+      "has_wood": "2025-02-01 00:20:20 -0300"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/armchair/red_armchair_dyed": {
+    "criteria": {
+      "has_armchair": "2025-02-01 02:55:19 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_door": {
+    "criteria": {
+      "has_planks": "2025-02-01 01:28:33 -0300"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/acacia/birch_bark_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-02-01 00:20:20 -0300"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/household_items/tv": {
+    "criteria": {
+      "has_glass_pane": "2025-02-01 00:44:50 -0300"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/rug/lime_rug_dyed": {
+    "criteria": {
+      "has_rug": "2025-02-01 02:50:20 -0300"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/print_tropical": {
+    "criteria": {
+      "has_logs": "2025-02-01 00:20:20 -0300"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/dark_oak/dark_oak_barrel_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-02-01 00:20:20 -0300"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/birch/birch_tropical_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-02-01 00:20:20 -0300"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/machines/fossil/fossil_machine_top": {
+    "criteria": {
+      "has_cleaned_fossil": "2025-02-01 02:45:58 -0300"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/spruce/spruce_barred_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-02-01 00:20:20 -0300"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/chair/gray_chair_dyed": {
+    "criteria": {
+      "has_chair": "2025-02-01 02:33:25 -0300"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/pokeball/lid/sport_ball_lid": {
+    "criteria": {
+      "has_ultra_ball": "2025-02-01 00:28:19 -0300"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/jungle/jungle_paper_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-02-01 00:20:20 -0300"
+    },
+    "done": true
+  },
+  "naturescompass:natures_compass_sapling": {
+    "criteria": {
+      "has_recipe": "2025-02-01 00:53:04 -0300"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/warped/warped_cottage_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-02-01 00:20:20 -0300"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/vending_machine/white_vending_machine_dyed": {
+    "criteria": {
+      "has_vending_machine": "2025-02-01 02:38:26 -0300"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/birch": {
+    "criteria": {
+      "has_wood": "2025-02-01 00:20:20 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lime_dye": {
+    "criteria": {
+      "has_white_dye": "2025-02-01 00:55:58 -0300"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/chair/purple_chair_dyed": {
+    "criteria": {
+      "has_chair": "2025-02-01 02:33:25 -0300"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/armchair/magenta_armchair_dyed": {
+    "criteria": {
+      "has_armchair": "2025-02-01 02:55:19 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/blasting_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-02-01 00:20:20 -0300"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/terrain/cave_rock": {
+    "criteria": {
+      "has_stone": "2025-02-01 02:06:03 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/auto_smoking_upgrade": {
+    "criteria": {
+      "has_smoking_upgrade": "2025-02-01 00:20:20 -0300"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/machines/trade_machine/trade_holder_right": {
+    "criteria": {
+      "has_poke_ball": "2025-02-01 00:28:19 -0300"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/pokeball/base/aluminum_base": {
+    "criteria": {
+      "has_ingot": "2025-02-01 00:20:20 -0300"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/machines/fossil/fossil_machine_tank": {
+    "criteria": {
+      "has_cleaned_fossil": "2025-02-01 02:45:58 -0300"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/warped/warped_classic_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-02-01 00:20:20 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-02-01 02:06:03 -0300"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/chair/light_blue_chair_dyed": {
+    "criteria": {
+      "has_chair": "2025-02-01 02:33:25 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-02-01 03:21:49 -0300"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/building_infrastructure/street_light": {
+    "criteria": {
+      "has_glass_pane": "2025-02-01 00:44:50 -0300"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/bamboo/bamboo_beach_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-02-01 00:20:20 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-02-01 02:06:49 -0300"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/bamboo/bamboo_barrel_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-02-01 00:20:20 -0300"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/machines/trade_machine/trade_monitor": {
+    "criteria": {
+      "has_poke_ball": "2025-02-01 00:28:19 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/armor_stand": {
+    "criteria": {
+      "has_stone_slab": "2025-02-01 00:53:52 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2025-02-01 01:54:36 -0300"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/rug/magenta_rug_dyed": {
+    "criteria": {
+      "has_rug": "2025-02-01 02:50:20 -0300"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/machines/fossil/fossil_cleaner": {
+    "criteria": {
+      "has_the_recipe": "2025-02-01 02:45:58 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-02-01 00:44:50 -0300"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/armchair/light_gray_armchair_dyed": {
+    "criteria": {
+      "has_armchair": "2025-02-01 02:55:19 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/smoking_upgrade_from_smelting_upgrade": {
+    "criteria": {
+      "has_smelting_upgrade": "2025-02-01 00:20:20 -0300"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/bamboo/bamboo_tropical_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-02-01 00:20:20 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_stairs": {
+    "criteria": {
+      "has_quartz_pillar": "2025-02-01 00:49:49 -0300"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/spruce/spruce_ranch_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-02-01 00:20:20 -0300"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/machines/fossil/fossil_machine_display": {
+    "criteria": {
+      "has_cleaned_fossil": "2025-02-01 02:45:58 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2025-02-01 00:25:59 -0300"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/bamboo/bamboo_swamp_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-02-01 00:20:20 -0300"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/rug/purple_rug_dyed": {
+    "criteria": {
+      "has_rug": "2025-02-01 02:50:20 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz_slab": {
+    "criteria": {
+      "has_smooth_quartz": "2025-02-01 00:24:57 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/auto_blasting_upgrade_from_auto_smelting_upgrade": {
+    "criteria": {
+      "has_auto_smelting_upgrade": "2025-02-01 00:20:20 -0300"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/crimson/crimson_cottage_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-02-01 00:20:20 -0300"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/equipment/wailmer_pail": {
+    "criteria": {
+      "has_water_bucket": "2025-02-01 02:06:49 -0300"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/crimson/crimson_swamp_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-02-01 00:20:20 -0300"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/crimson/crimson_barn_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-02-01 00:20:20 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-02-01 02:06:03 -0300"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/spruce/spruce_swamp_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-02-01 00:20:20 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall": {
+    "criteria": {
+      "has_stone_bricks": "2025-02-01 00:39:54 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-02-01 00:44:50 -0300"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/terrain/rock": {
+    "criteria": {
+      "has_stone": "2025-02-01 02:06:03 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-02-01 01:28:33 -0300"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/rug/orange_rug_dyed": {
+    "criteria": {
+      "has_rug": "2025-02-01 02:50:20 -0300"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/birch/birch_glass_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-02-01 00:20:20 -0300"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/vending_machine/magenta_vending_machine_dyed": {
+    "criteria": {
+      "has_vending_machine": "2025-02-01 02:38:26 -0300"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/armchair/orange_armchair_dyed": {
+    "criteria": {
+      "has_armchair": "2025-02-01 02:55:19 -0300"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/chair/yellow_chair_dyed": {
+    "criteria": {
+      "has_chair": "2025-02-01 02:33:25 -0300"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/acacia": {
+    "criteria": {
+      "has_wood": "2025-02-01 00:20:20 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_blue_dye_from_blue_white_dye": {
+    "criteria": {
+      "has_white_dye": "2025-02-01 00:55:58 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-02-01 00:44:50 -0300"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/crimson/crimson_mystic_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-02-01 00:20:20 -0300"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/jungle/jungle_ranch_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-02-01 00:20:20 -0300"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/birch/birch_barn_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-02-01 00:20:20 -0300"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/gym_signs/white_gym_sign": {
+    "criteria": {
+      "has_dye": "2025-02-01 00:55:58 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/magenta_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-02-01 00:44:50 -0300"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/dark_oak/dark_oak_barred_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-02-01 00:20:20 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_red_white_dye": {
+    "criteria": {
+      "has_white_dye": "2025-02-01 00:55:58 -0300"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/vending_machine/pink_vending_machine_dyed": {
+    "criteria": {
+      "has_vending_machine": "2025-02-01 02:38:26 -0300"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/chair/magenta_chair_dyed": {
+    "criteria": {
+      "has_chair": "2025-02-01 02:33:25 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/iron_backpack": {
+    "criteria": {
+      "has_backpack": "2025-02-01 00:28:19 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_dark_oak_wood": {
+    "criteria": {
+      "has_log": "2025-02-01 00:53:04 -0300"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/vending_machine/orange_vending_machine_dyed": {
+    "criteria": {
+      "has_vending_machine": "2025-02-01 02:38:26 -0300"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/acacia/dark_oak_bark_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-02-01 00:20:20 -0300"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/jungle/jungle_tropical_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-02-01 00:20:20 -0300"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/mail_box/purple_mail_box": {
+    "criteria": {
+      "has_wooden_slabs": "2025-02-01 01:09:44 -0300"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/crimson/crimson_whispering_trapdoor": {
+    "criteria": {
+      "has_stems": "2025-02-01 00:20:20 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-02-01 00:44:50 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_slab": {
+    "criteria": {
+      "has_quartz_pillar": "2025-02-01 00:49:49 -0300"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/acacia/jungle_bark_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-02-01 00:20:20 -0300"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/oak/oak_cottage_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-02-01 00:20:20 -0300"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/acacia/acacia_bark_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-02-01 00:20:20 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_red_flower": "2025-02-01 00:58:17 -0300"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/vending_machine/gray_vending_machine_dyed": {
+    "criteria": {
+      "has_vending_machine": "2025-02-01 02:38:26 -0300"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/household_items/small_tv": {
+    "criteria": {
+      "has_glass_pane": "2025-02-01 00:44:50 -0300"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/dark_oak/dark_oak_swamp_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-02-01 00:20:20 -0300"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/crimson/crimson_four_panel_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-02-01 00:20:20 -0300"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/warped/warped_barred_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-02-01 00:20:20 -0300"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/pokeball/lid/quick_ball_lid": {
+    "criteria": {
+      "has_ultra_ball": "2025-02-01 00:28:19 -0300"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/spruce/spruce_beach_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-02-01 00:20:20 -0300"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/rug/gray_rug_dyed": {
+    "criteria": {
+      "has_rug": "2025-02-01 02:50:20 -0300"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/oak": {
+    "criteria": {
+      "has_wood": "2025-02-01 00:20:20 -0300"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/metal/metal_warning_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-02-01 00:20:20 -0300"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/household_items/mug_ball": {
+    "criteria": {
+      "has_poke_ball": "2025-02-01 00:28:19 -0300"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/print_blossom": {
+    "criteria": {
+      "has_logs": "2025-02-01 00:20:20 -0300"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/pokeball/lid/luxury_ball_lid": {
+    "criteria": {
+      "has_ultra_ball": "2025-02-01 00:28:19 -0300"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/armchair/pink_armchair_dyed": {
+    "criteria": {
+      "has_armchair": "2025-02-01 02:55:19 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/blasting_upgrade_from_smelting_upgrade": {
+    "criteria": {
+      "has_smelting_upgrade": "2025-02-01 00:20:20 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block": {
+    "criteria": {
+      "has_quartz_pillar": "2025-02-01 00:49:49 -0300"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/vending_machine/purple_vending_machine_dyed": {
+    "criteria": {
+      "has_vending_machine": "2025-02-01 02:38:26 -0300"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/chair/orange_chair_dyed": {
+    "criteria": {
+      "has_chair": "2025-02-01 02:33:25 -0300"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/jungle/jungle_barred_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-02-01 00:20:20 -0300"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/acacia/acacia_barn_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-02-01 00:20:20 -0300"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/vending_machine/light_blue_vending_machine_dyed": {
+    "criteria": {
+      "has_vending_machine": "2025-02-01 02:38:26 -0300"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/rug/brown_rug_dyed": {
+    "criteria": {
+      "has_rug": "2025-02-01 02:50:20 -0300"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/warped/warped_beach_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-02-01 00:20:20 -0300"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/terrain/boulder": {
+    "criteria": {
+      "has_stone": "2025-02-01 02:06:03 -0300"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/bench/dark_oak_bench": {
+    "criteria": {
+      "has_planks": "2025-02-01 01:28:33 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_button": {
+    "criteria": {
+      "has_stone": "2025-02-01 02:06:03 -0300"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/household_items/washing_machine": {
+    "criteria": {
+      "has_glass_pane": "2025-02-01 00:44:50 -0300"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/vending_machine/light_gray_vending_machine_dyed": {
+    "criteria": {
+      "has_vending_machine": "2025-02-01 02:38:26 -0300"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/chair/red_chair_dyed": {
+    "criteria": {
+      "has_chair": "2025-02-01 02:33:25 -0300"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/acacia/warped_bark_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-02-01 00:20:20 -0300"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/acacia/acacia_blossom_trapdoor": {
+    "criteria": {
+      "has_plankss": "2025-02-01 00:20:20 -0300"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/building_infrastructure/window1": {
+    "criteria": {
+      "has_glass_pane": "2025-02-01 00:44:50 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-02-01 01:28:33 -0300"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/building_infrastructure/window2": {
+    "criteria": {
+      "has_glass_pane": "2025-02-01 00:44:50 -0300"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/letter_box/lime_letter_box": {
+    "criteria": {
+      "has_wooden_slabs": "2025-02-01 01:09:44 -0300"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/birch/birch_beach_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-02-01 00:20:20 -0300"
+    },
+    "done": true
+  },
+  "betterdungeons:root": {
+    "criteria": {
+      "always": "2025-02-01 00:20:20 -0300"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/bamboo/bamboo_cottage_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-02-01 00:20:20 -0300"
+    },
+    "done": true
+  },
+  "explorerscompass:explorers_compass_cracked_stone_bricks": {
+    "criteria": {
+      "has_cracked_stone_bricks": "2025-02-01 02:13:13 -0300"
+    },
+    "done": true
+  },
+  "lootr:root": {
+    "criteria": {
+      "always_true": "2025-02-01 00:20:20 -0300"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/print_cottage": {
+    "criteria": {
+      "has_logs": "2025-02-01 00:20:20 -0300"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/pokeball/lid/timer_ball_lid": {
+    "criteria": {
+      "has_ultra_ball": "2025-02-01 00:28:19 -0300"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/acacia/oak_bark_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-02-01 00:20:20 -0300"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/warped/warped_barn_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-02-01 00:20:20 -0300"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/metal/metal_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-02-01 00:20:20 -0300"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/jungle/jungle_glass_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-02-01 00:20:20 -0300"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/clock/white_clock": {
+    "criteria": {
+      "has_dye": "2025-02-01 00:55:58 -0300"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/crimson": {
+    "criteria": {
+      "has_wood": "2025-02-01 00:20:20 -0300"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/bamboo/bamboo_four_panel_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-02-01 00:20:20 -0300"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/print_swamp": {
+    "criteria": {
+      "has_logs": "2025-02-01 00:20:20 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stonecutter": {
+    "criteria": {
+      "has_stone": "2025-02-01 02:06:03 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gray_dye": {
+    "criteria": {
+      "has_white_dye": "2025-02-01 00:55:58 -0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:taiga": "2025-02-01 02:15:09 -0300"
+    },
+    "done": false
+  },
+  "pixelmon:recipes/decor/rug/light_gray_rug_dyed": {
+    "criteria": {
+      "has_rug": "2025-02-01 02:50:20 -0300"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/dark_oak/dark_oak_barn_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-02-01 00:20:20 -0300"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/mail_box/cyan_mail_box": {
+    "criteria": {
+      "has_wooden_slabs": "2025-02-01 01:09:44 -0300"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/print_paper": {
+    "criteria": {
+      "has_logs": "2025-02-01 00:20:20 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/barrel": {
+    "criteria": {
+      "has_wood_slab": "2025-02-01 01:09:44 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-02-01 03:21:49 -0300"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/mail_box/light_blue_mail_box": {
+    "criteria": {
+      "has_wooden_slabs": "2025-02-01 01:09:44 -0300"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/acacia/acacia_barred_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-02-01 00:20:20 -0300"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/spruce/spruce_mystic_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-02-01 00:20:20 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_pressure_plate": {
+    "criteria": {
+      "has_stone": "2025-02-01 02:06:03 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-02-01 00:44:50 -0300"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/mail_box/red_mail_box": {
+    "criteria": {
+      "has_wooden_slabs": "2025-02-01 01:09:44 -0300"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/bamboo/bamboo_classic_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-02-01 00:20:20 -0300"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/bamboo/bamboo_barred_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-02-01 00:20:20 -0300"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/mail_box/brown_mail_box": {
+    "criteria": {
+      "has_wooden_slabs": "2025-02-01 01:09:44 -0300"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/pokeball/base/silver_base": {
+    "criteria": {
+      "has_ingot": "2025-02-01 00:20:20 -0300"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/oak/oak_beach_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-02-01 00:20:20 -0300"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/birch/birch_mystic_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-02-01 00:20:20 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_gray_white_dye": {
+    "criteria": {
+      "has_white_dye": "2025-02-01 00:55:58 -0300"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/acacia/acacia_swamp_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-02-01 00:20:20 -0300"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/dark_oak/dark_oak_classic_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-02-01 00:20:20 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-02-01 00:44:50 -0300"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/household_items/dark_workstation": {
+    "criteria": {
+      "has_tv2": "2025-02-01 02:44:22 -0300"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/mail_box/magenta_mail_box": {
+    "criteria": {
+      "has_wooden_slabs": "2025-02-01 01:09:44 -0300"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/jungle/jungle_classic_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-02-01 00:20:20 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/auto_blasting_upgrade": {
+    "criteria": {
+      "has_blasting_upgrade": "2025-02-01 00:20:20 -0300"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/crimson/crimson_blossom_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-02-01 00:20:20 -0300"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/household_items/glass_table": {
+    "criteria": {
+      "has_planks": "2025-02-01 01:28:33 -0300"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/equipment/vanilla/wooden_hammer": {
+    "criteria": {
+      "has_planks": "2025-02-01 01:28:33 -0300"
+    },
+    "done": true
+  },
+  "mcwdoors:recipes/bamboo": {
+    "criteria": {
+      "has_wood": "2025-02-01 00:20:20 -0300"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/building_infrastructure/inside_wall": {
+    "criteria": {
+      "has_dye": "2025-02-01 00:55:58 -0300"
+    },
+    "done": true
+  },
+  "mcwdoors:recipes/birch": {
+    "criteria": {
+      "has_wood": "2025-02-01 00:20:20 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-02-01 00:44:50 -0300"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/oak/oak_barrel_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-02-01 00:20:20 -0300"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/pokeball/lid/dive_ball_lid": {
+    "criteria": {
+      "has_ultra_ball": "2025-02-01 00:28:19 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2025-02-01 03:28:12 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_black_white_dye": {
+    "criteria": {
+      "has_white_dye": "2025-02-01 00:55:58 -0300"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/vending_machine/green_vending_machine_dyed": {
+    "criteria": {
+      "has_vending_machine": "2025-02-01 02:38:26 -0300"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/mail_box/orange_mail_box": {
+    "criteria": {
+      "has_wooden_slabs": "2025-02-01 01:09:44 -0300"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/vending_machine/yellow_vending_machine_dyed": {
+    "criteria": {
+      "has_vending_machine": "2025-02-01 02:38:26 -0300"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/letter_box/green_letter_box": {
+    "criteria": {
+      "has_wooden_slabs": "2025-02-01 01:09:44 -0300"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/dark_oak/dark_oak_ranch_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-02-01 00:20:20 -0300"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/jungle/jungle_cottage_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-02-01 00:20:20 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_pillar": {
+    "criteria": {
+      "has_quartz_pillar": "2025-02-01 00:49:49 -0300"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/chair/white_chair_dyed": {
+    "criteria": {
+      "has_chair": "2025-02-01 02:33:25 -0300"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/warped/warped_whispering_trapdoor": {
+    "criteria": {
+      "has_stems": "2025-02-01 00:20:20 -0300"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/letter_box/black_letter_box": {
+    "criteria": {
+      "has_wooden_slabs": "2025-02-01 01:09:44 -0300"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/dark_oak/dark_oak_tropical_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-02-01 00:20:20 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-02-01 00:39:54 -0300"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/dark_oak/dark_oak_cottage_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-02-01 00:20:20 -0300"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/mail_box/light_gray_mail_box": {
+    "criteria": {
+      "has_wooden_slabs": "2025-02-01 01:09:44 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone": {
+    "criteria": {
+      "has_stone": "2025-02-01 02:06:03 -0300"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/pokeball/lid/net_ball_lid": {
+    "criteria": {
+      "has_ultra_ball": "2025-02-01 00:28:19 -0300"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/chair/cyan_chair_dyed": {
+    "criteria": {
+      "has_chair": "2025-02-01 02:33:25 -0300"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/armchair/brown_armchair_dyed": {
+    "criteria": {
+      "has_armchair": "2025-02-01 02:55:19 -0300"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/birch/birch_blossom_trapdoor": {
+    "criteria": {
+      "has_plankss": "2025-02-01 00:20:20 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-02-01 02:06:03 -0300"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/chair/pink_chair_dyed": {
+    "criteria": {
+      "has_chair": "2025-02-01 02:33:25 -0300"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/vending_machine/lime_vending_machine_dyed": {
+    "criteria": {
+      "has_vending_machine": "2025-02-01 02:38:26 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-02-01 00:44:50 -0300"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/oak/oak_barn_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-02-01 00:20:20 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2025-02-01 00:56:36 -0300"
+    },
+    "done": true
+  },
+  "explorerscompass:explorers_compass_cobweb": {
+    "criteria": {
+      "has_recipe": "2025-02-01 02:13:13 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2025-02-01 00:25:59 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2025-02-01 00:39:54 -0300"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/acacia/acacia_beach_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-02-01 00:20:20 -0300"
+    },
+    "done": true
+  },
+  "mcwdoors:recipes/oak": {
+    "criteria": {
+      "has_wood": "2025-02-01 00:20:20 -0300"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/armchair/cyan_armchair_dyed": {
+    "criteria": {
+      "has_armchair": "2025-02-01 02:55:19 -0300"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/rug/yellow_rug_dyed": {
+    "criteria": {
+      "has_rug": "2025-02-01 02:50:20 -0300"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/bamboo/bamboo_whispering_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-02-01 00:20:20 -0300"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/letter_box/cyan_letter_box": {
+    "criteria": {
+      "has_wooden_slabs": "2025-02-01 01:09:44 -0300"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/pokeball/lid/safari_ball_lid": {
+    "criteria": {
+      "has_ultra_ball": "2025-02-01 00:28:19 -0300"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/acacia/acacia_barrel_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-02-01 00:20:20 -0300",
+      "has_the_recipe": "2025-02-01 00:20:20 -0300"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/bamboo/bamboo_mystic_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-02-01 00:20:20 -0300"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/warped/warped_four_panel_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-02-01 00:20:20 -0300"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/pokeball/lid/fast_ball_lid": {
+    "criteria": {
+      "has_ultra_ball": "2025-02-01 00:28:19 -0300"
+    },
+    "done": true
+  },
+  "mcwdoors:recipes/jungle": {
+    "criteria": {
+      "has_wood": "2025-02-01 00:20:20 -0300"
+    },
+    "done": true
+  },
+  "mcwdoors:recipes/acacia": {
+    "criteria": {
+      "has_wood": "2025-02-01 00:20:20 -0300"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/letter_box/pink_letter_box": {
+    "criteria": {
+      "has_wooden_slabs": "2025-02-01 01:09:44 -0300"
+    },
+    "done": true
+  },
+  "pixelmon:pokedex/pokedex_trigger": {
+    "criteria": {
+      "pokedex_base": "2025-02-01 00:22:08 -0300"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/temple/temple_block": {
+    "criteria": {
+      "has_stone_bricks": "2025-02-01 00:39:54 -0300"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/rug/black_rug_dyed": {
+    "criteria": {
+      "has_rug": "2025-02-01 02:50:20 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-02-01 00:39:54 -0300"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/birch/birch_classic_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-02-01 00:20:20 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-02-01 03:21:49 -0300"
+    },
+    "done": true
+  },
+  "ironchest:recipes/ironchest/upgrades/gold_to_diamond_chest_upgrade": {
+    "criteria": {
+      "has_glass": "2025-02-01 01:54:36 -0300"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/birch/birch_cottage_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-02-01 00:20:20 -0300"
+    },
+    "done": true
+  },
+  "ironchest:recipes/ironchest/chests/diamond_crystal_chest": {
+    "criteria": {
+      "has_glass": "2025-02-01 01:54:36 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-02-01 00:44:50 -0300"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/armchair/lime_armchair_dyed": {
+    "criteria": {
+      "has_armchair": "2025-02-01 02:55:19 -0300"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/chair/lime_chair_dyed": {
+    "criteria": {
+      "has_chair": "2025-02-01 02:33:25 -0300"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/dark_oak/dark_oak_paper_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-02-01 00:20:20 -0300"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/warped/warped_barrel_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-02-01 00:20:20 -0300"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/pokeball/lid/love_ball_lid": {
+    "criteria": {
+      "has_ultra_ball": "2025-02-01 00:28:19 -0300"
+    },
+    "done": true
+  },
+  "ironchest:recipes/ironchest/upgrades/silver_to_gold_chest_upgrade": {
+    "criteria": {
+      "has_item": "2025-02-01 01:54:36 -0300"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/mail_box/blue_mail_box": {
+    "criteria": {
+      "has_wooden_slabs": "2025-02-01 01:09:44 -0300"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/print_whispering": {
+    "criteria": {
+      "has_logs": "2025-02-01 00:20:20 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_white_dye": {
+    "criteria": {
+      "has_white_dye": "2025-02-01 00:55:58 -0300"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/mail_box/lime_mail_box": {
+    "criteria": {
+      "has_wooden_slabs": "2025-02-01 01:09:44 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2025-02-01 03:28:14 -0300"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/bamboo/bamboo_ranch_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-02-01 00:20:20 -0300"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/mail_box/white_mail_box": {
+    "criteria": {
+      "has_dye": "2025-02-01 00:55:58 -0300"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/mail_box/yellow_mail_box": {
+    "criteria": {
+      "has_wooden_slabs": "2025-02-01 01:09:44 -0300"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/household_items/item_frame": {
+    "criteria": {
+      "has_painting": "2025-02-01 03:24:56 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2025-02-01 00:53:04 -0300"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/acacia/acacia_whispering_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-02-01 00:20:20 -0300"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/print_classic": {
+    "criteria": {
+      "has_logs": "2025-02-01 00:20:20 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-02-01 03:21:49 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stone_bricks": "2025-02-01 00:39:54 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2025-02-01 00:25:59 -0300"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/letter_box/white_letter_box": {
+    "criteria": {
+      "has_dye": "2025-02-01 00:55:58 -0300"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/machines/fossil/fossil_machine_base": {
+    "criteria": {
+      "has_cleaned_fossil": "2025-02-01 02:45:58 -0300"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/chair/green_chair_dyed": {
+    "criteria": {
+      "has_chair": "2025-02-01 02:33:25 -0300"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/spruce/spruce_four_panel_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-02-01 00:20:20 -0300"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/oak/oak_whispering_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-02-01 00:20:20 -0300"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/chair/light_gray_chair_dyed": {
+    "criteria": {
+      "has_chair": "2025-02-01 02:33:25 -0300"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/crimson/crimson_ranch_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-02-01 00:20:20 -0300"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/acacia/acacia_four_panel_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-02-01 00:20:20 -0300"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/oak/oak_barred_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-02-01 00:20:20 -0300"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/jungle/jungle_blossom_trapdoor": {
+    "criteria": {
+      "has_plankss": "2025-02-01 00:20:20 -0300"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/oak/oak_swamp_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-02-01 00:20:20 -0300"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/jungle/jungle_swamp_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-02-01 00:20:20 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_stairs": {
+    "criteria": {
+      "has_planks": "2025-02-01 01:28:33 -0300"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/bamboo_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-02-01 00:20:20 -0300"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/spruce/spruce_tropical_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-02-01 00:20:20 -0300"
+    },
+    "done": true
+  },
+  "mcwdoors:recipes/metal": {
+    "criteria": {
+      "has_wood": "2025-02-01 00:20:20 -0300"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/spruce/spruce_whispering_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-02-01 00:20:20 -0300"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/birch/birch_barred_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-02-01 00:20:20 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_sign": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-02-01 01:28:33 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-02-01 00:44:50 -0300"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/building_infrastructure/picket_fence": {
+    "criteria": {
+      "has_fence": "2025-02-01 00:40:44 -0300"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/mail_box/green_mail_box": {
+    "criteria": {
+      "has_wooden_slabs": "2025-02-01 01:09:44 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-02-01 00:44:50 -0300"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/machines/fossil/fossil_machine": {
+    "criteria": {
+      "has_cleaned_fossil": "2025-02-01 02:45:58 -0300"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/letter_box/light_gray_letter_box": {
+    "criteria": {
+      "has_wooden_slabs": "2025-02-01 01:09:44 -0300"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/evo_item/galarica_cuff": {
+    "criteria": {
+      "has_evo_item": "2025-02-01 02:40:39 -0300"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/letter_box/brown_letter_box": {
+    "criteria": {
+      "has_wooden_slabs": "2025-02-01 01:09:44 -0300"
+    },
+    "done": true
+  },
+  "naturescompass:natures_compass_log": {
+    "criteria": {
+      "has_log": "2025-02-01 00:53:04 -0300"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/warped/warped_glass_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-02-01 00:20:20 -0300"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/household_items/cluttered_box": {
+    "criteria": {
+      "has_box": "2025-02-01 03:10:56 -0300"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/chair/blue_chair_dyed": {
+    "criteria": {
+      "has_chair": "2025-02-01 02:33:25 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2025-02-01 00:25:59 -0300"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/armchair/gray_armchair_dyed": {
+    "criteria": {
+      "has_armchair": "2025-02-01 02:55:19 -0300"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/letter_box/blue_letter_box": {
+    "criteria": {
+      "has_wooden_slabs": "2025-02-01 01:09:44 -0300"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/mail_box/pink_mail_box": {
+    "criteria": {
+      "has_wooden_slabs": "2025-02-01 01:09:44 -0300"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/crimson/crimson_barrel_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-02-01 00:20:20 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stone_bricks": "2025-02-01 00:39:54 -0300"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/warped/warped_paper_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-02-01 00:20:20 -0300"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/bamboo/bamboo_blossom_trapdoor": {
+    "criteria": {
+      "has_plankss": "2025-02-01 00:20:20 -0300"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/machines/trade_machine/trade_holder_left": {
+    "criteria": {
+      "has_poke_ball": "2025-02-01 00:28:19 -0300"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/vending_machine/blue_vending_machine_dyed": {
+    "criteria": {
+      "has_vending_machine": "2025-02-01 02:38:26 -0300"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/birch/birch_barrel_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-02-01 00:20:20 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-02-01 03:21:49 -0300"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/pokeball/base/platinum_base": {
+    "criteria": {
+      "has_ingot": "2025-02-01 00:20:20 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-02-01 02:06:03 -0300"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/jungle/jungle_whispering_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-02-01 00:20:20 -0300"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/pokeball/lid/repeat_ball_lid": {
+    "criteria": {
+      "has_ultra_ball": "2025-02-01 00:28:19 -0300"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/warped/warped_ranch_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-02-01 00:20:20 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-02-01 00:39:54 -0300"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/rug/light_blue_rug_dyed": {
+    "criteria": {
+      "has_rug": "2025-02-01 02:50:20 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-02-01 00:39:54 -0300"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/spruce/spruce_blossom_trapdoor": {
+    "criteria": {
+      "has_plankss": "2025-02-01 00:20:20 -0300"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/dark_oak": {
+    "criteria": {
+      "has_wood": "2025-02-01 00:20:20 -0300"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/jungle": {
+    "criteria": {
+      "has_wood": "2025-02-01 00:20:20 -0300"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/acacia/acacia_classic_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-02-01 00:20:20 -0300"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/birch/birch_whispering_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-02-01 00:20:20 -0300"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/oak/oak_four_panel_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-02-01 00:20:20 -0300"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/crimson/crimson_classic_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-02-01 00:20:20 -0300"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/pokeball/lid/lure_ball_lid": {
+    "criteria": {
+      "has_ultra_ball": "2025-02-01 00:28:19 -0300"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/spruce": {
+    "criteria": {
+      "has_wood": "2025-02-01 00:20:20 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab": {
+    "criteria": {
+      "has_stone": "2025-02-01 02:06:03 -0300"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/letter_box/magenta_letter_box": {
+    "criteria": {
+      "has_wooden_slabs": "2025-02-01 01:09:44 -0300"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/chair/brown_chair_dyed": {
+    "criteria": {
+      "has_chair": "2025-02-01 02:33:25 -0300"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/vending_machine/red_vending_machine_dyed": {
+    "criteria": {
+      "has_vending_machine": "2025-02-01 02:38:26 -0300"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/pokeball/lid/heavy_ball_lid": {
+    "criteria": {
+      "has_ultra_ball": "2025-02-01 00:28:19 -0300"
+    },
+    "done": true
+  },
+  "ironchest:recipes/ironchest/upgrades/diamond_to_obsidian_chest_upgrade": {
+    "criteria": {
+      "has_glass": "2025-02-01 01:54:36 -0300"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/armchair/yellow_armchair_dyed": {
+    "criteria": {
+      "has_armchair": "2025-02-01 02:55:19 -0300"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/oak/oak_ranch_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-02-01 00:20:20 -0300"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/pokeball/lid/moon_ball_lid": {
+    "criteria": {
+      "has_ultra_ball": "2025-02-01 00:28:19 -0300"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/warped/warped_tropical_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-02-01 00:20:20 -0300"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/crimson/crimson_tropical_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-02-01 00:20:20 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-02-01 00:44:50 -0300"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/spruce/spruce_classic_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-02-01 00:20:20 -0300"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/rug/pink_rug_dyed": {
+    "criteria": {
+      "has_rug": "2025-02-01 02:50:20 -0300"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/letter_box/light_blue_letter_box": {
+    "criteria": {
+      "has_wooden_slabs": "2025-02-01 01:09:44 -0300"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/jungle/jungle_barn_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-02-01 00:20:20 -0300"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/dark_oak_trim": {
+    "criteria": {
+      "has_planks": "2025-02-01 01:28:33 -0300"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/armchair/black_armchair_dyed": {
+    "criteria": {
+      "has_armchair": "2025-02-01 02:55:19 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz_stairs": {
+    "criteria": {
+      "has_smooth_quartz": "2025-02-01 00:24:57 -0300"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/household_items/light_workstation": {
+    "criteria": {
+      "has_tv2": "2025-02-01 02:44:22 -0300"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/dark_oak/dark_oak_blossom_trapdoor": {
+    "criteria": {
+      "has_plankss": "2025-02-01 00:20:20 -0300"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/machines/trade_machine/trade_panel": {
+    "criteria": {
+      "has_poke_ball": "2025-02-01 00:28:19 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/smoking_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-02-01 00:20:20 -0300"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/letter_box/purple_letter_box": {
+    "criteria": {
+      "has_wooden_slabs": "2025-02-01 01:09:44 -0300"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/armchair/purple_armchair_dyed": {
+    "criteria": {
+      "has_armchair": "2025-02-01 02:55:19 -0300"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/household_items/big_tv": {
+    "criteria": {
+      "has_tv2": "2025-02-01 02:44:22 -0300"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/bamboo/bamboo_paper_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-02-01 00:20:20 -0300"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/rug/red_rug_dyed": {
+    "criteria": {
+      "has_rug": "2025-02-01 02:50:20 -0300"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/letter_box/red_letter_box": {
+    "criteria": {
+      "has_wooden_slabs": "2025-02-01 01:09:44 -0300"
+    },
+    "done": true
+  },
+  "ironchest:recipes/ironchest/upgrades/diamond_to_crystal_chest_upgrade": {
+    "criteria": {
+      "has_glass": "2025-02-01 01:54:36 -0300"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/letter_box/yellow_letter_box": {
+    "criteria": {
+      "has_wooden_slabs": "2025-02-01 01:09:44 -0300"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/pokeball/base/iron_base": {
+    "criteria": {
+      "has_ingot": "2025-02-01 00:20:20 -0300"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/birch/birch_four_panel_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-02-01 00:20:20 -0300"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/oak/oak_glass_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-02-01 00:20:20 -0300"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/dark_oak/dark_oak_mystic_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-02-01 00:20:20 -0300"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/spruce/spruce_paper_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-02-01 00:20:20 -0300"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/acacia/acacia_cottage_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-02-01 00:20:20 -0300"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/crimson/crimson_glass_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-02-01 00:20:20 -0300"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/pokeball/base/wooden_base": {
+    "criteria": {
+      "has_slab": "2025-02-01 00:20:20 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-02-01 01:28:33 -0300"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/pokeball/lid/level_ball_lid": {
+    "criteria": {
+      "has_ultra_ball": "2025-02-01 00:28:19 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-02-01 03:21:49 -0300"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/spruce/spruce_glass_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-02-01 00:20:20 -0300"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/acacia/spruce_bark_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-02-01 00:20:20 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz_stairs_from_smooth_quartz_stonecutting": {
+    "criteria": {
+      "has_smooth_quartz": "2025-02-01 00:24:57 -0300"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/print_barred": {
+    "criteria": {
+      "has_planks": "2025-02-01 00:20:20 -0300"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/chair/black_chair_dyed": {
+    "criteria": {
+      "has_chair": "2025-02-01 02:33:25 -0300"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/rug/white_rug_dyed": {
+    "criteria": {
+      "has_rug": "2025-02-01 02:50:20 -0300"
+    },
+    "done": true
+  },
+  "mcwdoors:recipes/warped": {
+    "criteria": {
+      "has_wood": "2025-02-01 00:20:20 -0300"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/oak/oak_blossom_trapdoor": {
+    "criteria": {
+      "has_plankss": "2025-02-01 00:20:20 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-02-01 01:09:44 -0300"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/vending_machine/black_vending_machine_dyed": {
+    "criteria": {
+      "has_vending_machine": "2025-02-01 02:38:26 -0300"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/jungle/jungle_four_panel_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-02-01 00:20:20 -0300"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/dark_oak/dark_oak_whispering_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-02-01 00:20:20 -0300"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/birch/birch_swamp_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-02-01 00:20:20 -0300"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/mail_box/black_mail_box": {
+    "criteria": {
+      "has_wooden_slabs": "2025-02-01 01:09:44 -0300"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/crimson/crimson_paper_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-02-01 00:20:20 -0300"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/rug/green_rug_dyed": {
+    "criteria": {
+      "has_rug": "2025-02-01 02:50:20 -0300"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/jungle/jungle_mystic_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-02-01 00:20:20 -0300"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/spruce/spruce_barrel_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-02-01 00:20:20 -0300"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/armchair/light_blue_armchair_dyed": {
+    "criteria": {
+      "has_armchair": "2025-02-01 02:55:19 -0300"
+    },
+    "done": true
+  },
+  "explorerscompass:explorers_compass": {
+    "criteria": {
+      "has_recipe": "2025-02-01 02:13:13 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2025-02-01 00:25:59 -0300"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/print_mystic": {
+    "criteria": {
+      "has_logs": "2025-02-01 00:20:20 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-02-01 02:06:03 -0300"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/dark_oak/dark_oak_glass_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-02-01 00:20:20 -0300"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/vending_machine/cyan_vending_machine_dyed": {
+    "criteria": {
+      "has_vending_machine": "2025-02-01 02:38:26 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2025-02-01 00:25:59 -0300"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/armchair/blue_armchair_dyed": {
+    "criteria": {
+      "has_armchair": "2025-02-01 02:55:19 -0300"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/bamboo/bamboo_glass_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-02-01 00:20:20 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/auto_smoking_upgrade_from_auto_smelting_upgrade": {
+    "criteria": {
+      "has_auto_smelting_upgrade": "2025-02-01 00:20:20 -0300"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/warped/warped_blossom_trapdoor": {
+    "criteria": {
+      "has_plankss": "2025-02-01 00:20:20 -0300"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/print_four_panel": {
+    "criteria": {
+      "has_logs": "2025-02-01 00:20:20 -0300"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/warped/warped_swamp_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-02-01 00:20:20 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs": {
+    "criteria": {
+      "has_stone": "2025-02-01 02:06:03 -0300"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/building_infrastructure/bridge_block": {
+    "criteria": {
+      "has_logs": "2025-02-01 00:53:04 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-02-01 00:44:50 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-02-01 00:44:50 -0300"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/vending_machine/brown_vending_machine_dyed": {
+    "criteria": {
+      "has_vending_machine": "2025-02-01 02:38:26 -0300"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/birch/birch_ranch_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-02-01 00:20:20 -0300"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/oak/oak_paper_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-02-01 00:20:20 -0300"
+    },
+    "done": true
+  },
+  "mcwdoors:recipes/crimson": {
+    "criteria": {
+      "has_wood": "2025-02-01 00:20:20 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_fence": {
+    "criteria": {
+      "has_planks": "2025-02-01 01:28:33 -0300"
+    },
+    "done": true
+  },
+  "mcwdoors:recipes/cherry_print": {
+    "criteria": {
+      "has_wood": "2025-02-01 00:20:20 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2025-02-01 03:28:12 -0300"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/oak/oak_tropical_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-02-01 00:20:20 -0300"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/metal/metal_full_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-02-01 00:20:20 -0300"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/oak/oak_mystic_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-02-01 00:20:20 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bonemeal": "2025-02-01 00:56:36 -0300"
+    },
+    "done": true
+  },
+  "DataVersion": 2586
+}
